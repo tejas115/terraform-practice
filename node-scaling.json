@@ -1,0 +1,1 @@
+{"cluster_name":"bridgephase-prod","node_groups":{"primary":{"desired_capacity":5,"instance_types":["t3.xlarge"],"max_size":10,"min_size":1}}}
